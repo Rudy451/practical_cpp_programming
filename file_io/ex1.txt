@@ -1,0 +1,15 @@
+2007:	SA Spurs
+2008:	Bos Celtics
+2009:	LA Lakers
+2010:	LA Lakers
+2011:	Dal Mavs
+2012:	Mia Heat
+2013:	Mia Heat
+2014:	SA Spurs
+2015:	GSW
+2016:	Cle Cavs
+2017:	GSW
+2018:	GSW
+2019:	Tor Raptors
+2020:	LA Lakers
+2021:	Phx Suns
